@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gêneros Músicais</title>
+    <link rel="stylesheet" href="style/page2.css">
+    <link rel="icon" type="image/x-icon" href="img/ouvido.png">
+    <img class="imagem" src="img/joia.png" alt="joia">
+
+</head>
+<body>
+    <header>
+        <h1>Músicas Recomendadas</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="page1.html">Início</a></li>
+            <li><a href="page3.html">Artistas</a></li>
+            <li><a href="page4.html">Playlists</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2> Tenho Certeza que Alguma Delas Você ja Escutou! </h2>
+        <ul>
+            <li>Surreal - Luísa Sonza, Bacu Exu do Blues</li>
+            <li>Se o Amor Tiver Lugar - Jorge e Mateus</li>
+            <li>A internet é Toxica - MC Saci</li>
+            <li>Problemas de um Milionário - WIU, Teto</li>
+            <li>FireWork - Katy Perry</li>
+        </ul>
+    </main>
+    <p>Como Vocês Podem Ver Aqui Temos Diversos Gêneros Diferentes<br>
+       Pois Temos que Estar Preparado Para Qualquer Tipo de Festa Que Esta Por Vir.</p>
+       <footer>
+        <p>&copy; 2024 Recomendações de Músicas Da BinBin</p>
+    </footer>   
+</body>
+</html>
