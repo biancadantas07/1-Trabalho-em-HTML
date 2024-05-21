@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artistas</title>
+    <link rel="stylesheet" href="style/page3.css">
+    <link rel="icon" type="image/x-icon" href="img/musicas.png">
+    <img class="imagem" src="img/artista.png" alt="artista">
+
+</head>
+<body>
+    <header>
+        <h1>Artistas</h1>
+    </header>
+    <nav>
+
+        <ul>
+            <li><a href="page1.html">Inicio</a></li>
+            <li><a href="page2.html">Gênero</a></li>
+            <li><a href="page4.html">Playlist</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Os Melhores Artistas que Você Vera na Vida! </h2>
+        <ul>
+            <li>MC IG</li>
+            <li>Ana Castela</li>
+            <li>WIU</li>
+            <li>Matheus & Kauan</li>
+            <li>MC PH</li>
+            <li>Luísa Sonza</li>
+            <li>Billie Elish</li>
+            <li>Veigh</li>
+            <li>Bacu Exu do Blues</li>
+            <li>Jão</li>
+        </ul>
+    </main>
+    <p>Essas São o Top 10 Artistas Que eu Mais Escuto no Meu Dia a Dia<br>
+       Desde Que eu Descobri o Que é Ser Feliz.<br></p>
+       <footer>
+        <p>&copy; 2024 Recomendações de Músicas Da BinBin</p>
+    </footer>
+        
+    
+</body>
+</html>
