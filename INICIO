@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recomendações de Músicas da BinBin</title>
+    <link rel="stylesheet" href="style/page1.css">
+    <link rel="icon" type="image/x-icon" href="img/guitarra.png">
+    <img class="imagem" src="img/playlist.png" alt="playlist">
+   
+
+</head>
+<body>
+    <header>
+        <h1>Recomendações de Músicas da BinBin</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="page2.html">Musicas</a></li>
+            <li><a href="page3.html">Artistas</a></li>
+            <li><a href="page4.html">Playlists</a></li>
+        </ul>
+    </nav>
+<main>
+    <p>Bem Vindos ao Meu Site Aonde eu Recomendo as Melhores Músicas, e<br>
+    Lembrando Que Este Trabalho foi Feito Baseado Nas Minhas Opiniões. 😘</p>
+</main>
+<footer>
+    <p>&copy; 2024 Recomendações de Músicas Da BinBin</p>
+</footer>
+    
+</body>
+</html>
