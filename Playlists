@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playlist</title>
+    <link rel="stylesheet" href="style/page4.css">
+    <link rel="icon" type="image/x-icon" href="img/playlist.png">
+    <img class="imagem" src="img/aumenta.png" alt="aumenta">
+
+</head>
+<body>
+    <header>
+        <h1>Playlists</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="page1.html">Início</a></li>
+            <li><a href="page2.html">Gênero</a></li>
+            <li><a href="page3.html">Playlists</a></li>
+    </nav>
+    <main>
+        <h2>Playlists Recomendadas:</h2>
+        <ul>
+        <li><a href="https://open.spotify.com/playlist/0z0cy6hhuiW7UQ12cTJH0D?si=59d9353b0bd44447">Playlist Para Você se sentir Em um Filme</a></li>
+        <li><a href="https://open.spotify.com/playlist/0RnQEbt2CYMuswLmZGBgrT?si=7bcb405b93104ca5">Playlist Para Caso Você Queira Assaltar um Banco</a></li>
+        <li><a href="https://open.spotify.com/playlist/0ILnklOLw9qJ32niu1pzbP?si=fb2865a5fbea4578">Playlist Para você Sofrer Mesmo Não Tendo Motivos</a></li>
+        <li><a href="https://open.spotify.com/playlist/4BFBzeCrbnnKzXZKEaoHDw?si=52b8efcf371245a0">Playlist Para Você Se Sentir Em um Edit</a></li>
+        </ul>
+    </main>
+    <p>Aqui Estão Algumas Das Minhas Playlists, Espero Que Sejam Felizes</p>
+    <footer>
+        <p>&copy; 2024 Recomendações de Músicas Da BinBin</p>
+    </footer>
+</body>
+</html>
